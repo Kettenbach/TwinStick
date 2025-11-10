@@ -1,6 +1,6 @@
-# ScoreSpace36
+# Twin Stick Shooter
 
 Unreal Engine 5.6.1
 
-## THEME: ARENA
+## THEME: WAVES
 ---
